@@ -8,14 +8,14 @@ __Opdracht 2__ is een formulier die in een panel zit, deze panel is bij het lade
 __Opdracht 3__ is een applicatie die uitrekent hoe oud je bent  
 __Opdracht 4__ is een countdown naar pasen en laat zien welke datum het vandaag is.  
 ---  
-###23-03-2017 Toegevoegd opdracht 5  
+### 23-03-2017 Toegevoegd opdracht 5  
 __Opdracht 5__ is een kleine rekenmachine applicatie die vooral is gemaakt om kennis te maken met validators.  
 Er zijn 3 types validators in deze opdracht gebruikt
 * Range validator  
 * Compare validator  
 * Regular expression validator  
 ---  
-###30-03-2017 Toegevoegd opdracht 6  
+### 30-03-2017 Toegevoegd opdracht 6  
 __Opdracht 6__ is een grafische rekenmachine applicatie met simpele functies  
 Deze functies zijn:
 * Optellen
