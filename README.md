@@ -4,7 +4,7 @@
 **Opdracht 1** is een word document met uitleg over hoe je een paar Visual Studio 2015 instellingen kunt bewerken
 ---  
 ### 13-03-2017 Toegevoegd opdracht 2,3,4  
-**Opdracht 2**is een formulier die in een panel zit, deze panel is bij het laden van de pagina verborgen. Wanneer je op een radio button drukt om hem te laten zien verschijnt de volle forumulier  
+**Opdracht 2** is een formulier die in een panel zit, deze panel is bij het laden van de pagina verborgen. Wanneer je op een radio button drukt om hem te laten zien verschijnt de volle forumulier  
 **Opdracht 3** is een applicatie die uitrekent hoe oud je bent  
 **Opdracht 4** is een countdown naar pasen en laat zien welke datum het vandaag is.  
 ---  
