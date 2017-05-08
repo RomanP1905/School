@@ -22,4 +22,7 @@ Er zijn 3 types validators in deze opdracht gebruikt
 Opdracht 6 is een grafische rekenmachine applicatie met simpele functies  
 Deze functies zijn:
 * Optellen
-* Aftrekken
+* Aftrekken  
+---
+### 8-05-2017 Toegevoegd opdracht 7  
+Opdracht 7 is een toetsprogramma die willekeurige toetsen aanmaakt en checkt voor goed/fout en een score laat zien
