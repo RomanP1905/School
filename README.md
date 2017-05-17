@@ -6,7 +6,6 @@ Opdracht 1 is een word document met uitleg over hoe je een paar Visual Studio 20
 
 ---  
 ### 13-03-2017 Toegevoegd opdracht 2,3,4  
-
 Opdracht 2 is een formulier die in een panel zit, deze panel is bij het laden van de pagina verborgen. Wanneer je op een radio button drukt om hem te laten zien verschijnt de volle forumulier  
 Opdracht 3 is een applicatie die uitrekent hoe oud je bent  
 Opdracht 4 is een countdown naar pasen en laat zien welke datum het vandaag is.  
@@ -25,4 +24,7 @@ Deze functies zijn:
 * Aftrekken  
 ---
 ### 8-05-2017 Toegevoegd opdracht 7  
-Opdracht 7 is een toetsprogramma die willekeurige toetsen aanmaakt en checkt voor goed/fout en een score laat zien
+Opdracht 7 is een toetsprogramma die willekeurige toetsen aanmaakt en checkt voor goed/fout en een score laat zien  
+---
+### 17-05-2017 Toegevoegd opdracht 8  
+Opdracht 8 is een responsive webpagina met een masterpage en een database connectie  
