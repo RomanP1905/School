@@ -2,8 +2,7 @@
 ## Repository van Roman  
 ### 16-02-2017 Toegevoegd opdracht 1  
 
-Opdracht 1 is een word document met uitleg over hoe je een paar Visual Studio 2015 instellingen kunt bewerken 
-
+Opdracht 1 is een word document met uitleg over hoe je een paar Visual Studio 2015 instellingen kunt bewerken  
 ---
 ### 13-03-2017 Toegevoegd opdracht 2,3,4  
 Opdracht 2 is een formulier die in een panel zit, deze panel is bij het laden van de pagina verborgen. Wanneer je op een radio button drukt om hem te laten zien verschijnt de volle forumulier  
