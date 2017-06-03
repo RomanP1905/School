@@ -27,3 +27,7 @@ Opdracht 7 is een toetsprogramma die willekeurige toetsen aanmaakt en checkt voo
 ---
 ### 17-05-2017 Toegevoegd opdracht 8  
 Opdracht 8 is een responsive webpagina met een masterpage en een database connectie  
+---  
+### 03-06-2017 Toegevoegd extra opdr 1 + 2  
+Extra opdracht 1 is een brute force calculator die kan checken of een getal priem is en alle priem getallen tot een gegeven aantal kan noemen  
+Extra opdracht 2 is een calculator die de grootste gemene deler kan vinden tussen 2 nummers  
